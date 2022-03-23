@@ -66,8 +66,7 @@
 }
 .related{
     grid-area: related;
-
-    background-color: rgb(15, 10, 15);
+ background-color: rgb(15, 10, 15);
 }
 .prelated{
     grid-area: prelated;
@@ -76,6 +75,5 @@
 }
 .footer{
     grid-area: footer;
-
     background-color: rgb(115, 51, 235);
 }
