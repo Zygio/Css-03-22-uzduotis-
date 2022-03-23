@@ -59,23 +59,3 @@
     background-color: darkmagenta;
 
 }
-.extra{
-     grid-area: extra;
-     background-color: rgb(243, 165, 243);
-
-}
-.related{
-    grid-area: related;
-
-    background-color: rgb(15, 10, 15);
-}
-.prelated{
-    grid-area: prelated;
-
-    background-color: darkmagenta;
-}
-.footer{
-    grid-area: footer;
-
-    background-color: rgb(115, 51, 235);
-}
